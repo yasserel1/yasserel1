@@ -1,18 +1,8 @@
-personal_info = {
-    "username": "@yasserel1",
-    "interests": "Coding, Technology, and Innovation",
-    "learning": "Python, Machine Learning,javaScript",
-    "collaboration": "Open-source projects and Creating Plugins or Extensions",
-    "contact": "yasserelmazroub@gmail.com",
-    "pronouns": "He/Him",
-    "fun_fact": "I love programming and developping me self Especially when it comes to programming.",
-    }
 
-# Display Personal Info
-print(f"👋 Hi, I'm {personal_info['username']}")
-print(f"👀 I'm interested in: {personal_info['interests']}")
-print(f"🌱 I'm currently learning: {personal_info['learning']}")
-print(f"💞️ I'm looking to collaborate on: {personal_info['collaboration']}")
-print(f"📫 How to reach me: {personal_info['contact']}")
-print(f"😄 Pronouns: {personal_info['pronouns']}")
-print(f"⚡ Fun fact: {personal_info['fun_fact']}")
+Here’s a more professional version of your text:
+
+My name is Yasser, and I am from Morocco. I am currently at an intermediate level in programming, having recently embarked on this exciting journey. As I strive to improve my skills and deepen my understanding of the field, I will be sharing updates on my progress, projects, and learning experiences here.
+
+I am eager to connect with and learn from experienced professionals and like-minded individuals in the programming community. Your guidance, feedback, and support will be invaluable in helping me grow and achieve my goals in this ever-evolving domain.
+
+Thank you in advance for being part of my development journey!
